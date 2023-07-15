@@ -11,7 +11,7 @@ https://tootalltoby.com/leaderboard/
 - Open a terminal
 - Download the digital font used by the chronometer
 ```
-wget (https://github.com/andesfreedesign/Chronometer_FreeCAD/blob/main/digital-7.zip
+wget https://github.com/andesfreedesign/Chronometer_FreeCAD/blob/main/digital-7.zip
 ```
 - Unzip the file digital-7.zip
 ```
