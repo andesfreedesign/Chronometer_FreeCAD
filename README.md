@@ -17,9 +17,9 @@ wget https://github.com/andesfreedesign/Chronometer_FreeCAD/raw/main/digital-7.z
 ```
 unzip digital-7.zip
 ```
-- Copy the unzipped folder to usr/share/fonts
+- Copy the unzipped folder
 ```
-sudo cp -r digital-7/ usr/share/digital-7
+sudo cp -r digital-7/ /usr/share/fonts/truetype/digital-7
 ```
 - Update the fonts of the operating system
 ```
