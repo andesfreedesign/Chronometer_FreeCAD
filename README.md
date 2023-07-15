@@ -4,7 +4,7 @@ A macro to run a chronometer in FreeCAD and record 3D modeling times of differen
 It is designed for all those FreeCAD users who want to practice for the 3D CAD SpeedModeling World Championship.
 https://tootalltoby.com/leaderboard/
 
-![capture](https://github.com/andesfreedesign/Chronometer_FreeCAD/blob/main/chronometer.png)
+![capture](https://github.com/andesfreedesign/Chronometer_FreeCAD/blob/main/freecad.png)
 
 ### Installation on Debian-based distributions
 
@@ -33,3 +33,4 @@ wget https://github.com/andesfreedesign/Chronometer_FreeCAD/raw/main/chronometer
 ```
 sudo cp chronometer.FCMacro /home/your_user/.local/share/FreeCAD/Macro/
 ```
+![capture](https://github.com/andesfreedesign/Chronometer_FreeCAD/blob/main/chronometer.png)
