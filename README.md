@@ -27,7 +27,7 @@ sudo fc-cache -f -v
 ```
 - Download the macro
 ```
-wget (https://github.com/andesfreedesign/Chronometer_FreeCAD/blob/main/chronometer.FCMacro
+wget https://github.com/andesfreedesign/Chronometer_FreeCAD/raw/main/chronometer.FCMacro
 ```
 - Copy the macro
 ```
